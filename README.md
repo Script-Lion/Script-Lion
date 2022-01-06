@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...C/C++, Matlab Script, Python Programming. 
 - 🌱 I’m currently learning ... Python.
 - 💞️ I’m looking to collaborate on ... email.
-- 📫 How to reach me ... at github.
+- 📫 How to reach me ... @ github.com/Script-Lion
 
 <!---
 Script-Lion/Script-Lion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
