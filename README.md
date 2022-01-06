@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Script-Lion
-- 👀 I’m interested in ...c/C++, Matlab Script, Python Programming. 
+- 👀 I’m interested in ...C/C++, Matlab Script, Python Programming. 
 - 🌱 I’m currently learning ... Python.
 - 💞️ I’m looking to collaborate on ... email.
 - 📫 How to reach me ... at github.
